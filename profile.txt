@@ -1,1 +1,2 @@
 krishna - Mumbai 
+Skills: javascript, Reactjs, SQL 
